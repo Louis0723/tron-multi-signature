@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://louis0723.github.io/CYBAVO_Tron_Permission/static/css/main.4b4fb1ea.css",
+    "main.js": "https://louis0723.github.io/CYBAVO_Tron_Permission/static/js/main.e83a2c0c.js",
+    "static/js/787.c309e95a.chunk.js": "https://louis0723.github.io/CYBAVO_Tron_Permission/static/js/787.c309e95a.chunk.js",
+    "index.html": "https://louis0723.github.io/CYBAVO_Tron_Permission/index.html",
+    "main.4b4fb1ea.css.map": "https://louis0723.github.io/CYBAVO_Tron_Permission/static/css/main.4b4fb1ea.css.map",
+    "main.e83a2c0c.js.map": "https://louis0723.github.io/CYBAVO_Tron_Permission/static/js/main.e83a2c0c.js.map",
+    "787.c309e95a.chunk.js.map": "https://louis0723.github.io/CYBAVO_Tron_Permission/static/js/787.c309e95a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b4fb1ea.css",
+    "static/js/main.e83a2c0c.js"
+  ]
+}
