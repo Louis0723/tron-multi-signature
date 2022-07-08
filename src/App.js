@@ -33,7 +33,7 @@ function SignData(props) {
         >Sign</button>
         <button className='px-4 py-2 m-1 font-semibold text-sm bg-yellow-500 text-white rounded-full shadow-sm'
           onClick={() => {
-            window.tronWeb.trx.sendRawTransaction(signedData.tx)
+            window.tronWeb.trx.sendRawTransaction(JSON.parse(signedData.tx))
               .then(result => {
                 window.open(`https://shasta.tronscan.org/#/transaction/${result.txid}`)
               })
