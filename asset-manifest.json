@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://louis0723.github.io/tron-multi-signature/static/css/main.4b4fb1ea.css",
-    "main.js": "https://louis0723.github.io/tron-multi-signature/static/js/main.f27a87c3.js",
+    "main.js": "https://louis0723.github.io/tron-multi-signature/static/js/main.c2a59d69.js",
     "static/js/787.c309e95a.chunk.js": "https://louis0723.github.io/tron-multi-signature/static/js/787.c309e95a.chunk.js",
     "index.html": "https://louis0723.github.io/tron-multi-signature/index.html",
     "main.4b4fb1ea.css.map": "https://louis0723.github.io/tron-multi-signature/static/css/main.4b4fb1ea.css.map",
-    "main.f27a87c3.js.map": "https://louis0723.github.io/tron-multi-signature/static/js/main.f27a87c3.js.map",
+    "main.c2a59d69.js.map": "https://louis0723.github.io/tron-multi-signature/static/js/main.c2a59d69.js.map",
     "787.c309e95a.chunk.js.map": "https://louis0723.github.io/tron-multi-signature/static/js/787.c309e95a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b4fb1ea.css",
-    "static/js/main.f27a87c3.js"
+    "static/js/main.c2a59d69.js"
   ]
 }
